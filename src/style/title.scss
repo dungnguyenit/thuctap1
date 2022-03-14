@@ -1,0 +1,18 @@
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    .title_text{
+        width: 50%;
+        float: left;
+        padding-right: 15%;
+    }
+    .title_img{
+        width: 50%;
+        float: right;
+        padding-left: 5%;
+    }
+}
